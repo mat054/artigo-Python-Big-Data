@@ -47,15 +47,15 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Python - aplicações na ciência de dados                                                                                                                                                                                                    |
+| conteúdo | Faça um texto para um artigo que irei publicar a respeito da seguinte headline 'Python para Big Data: Técnicas e Ferramentas para Analisar Grandes Volumes de Dados" {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, divida o texto em subtópicos, quero que cada subtópico tenha em média 6 a 7 linhas e introduza perguntas retóricas para dar impressão de estar conversando com o leitor!
 
 
 Lexica.art：
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
-• Angular
+• Python
 
 
 
